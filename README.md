@@ -78,7 +78,7 @@ Model performance was evaluated using:
 How to Run This Project
 
 git clone https://github.com/fumd03/Logistic-Regression.git
-cd hearing-analysis
+cd Logistic-Regression
 pip install -r requirements.txt
 jupyter notebook
 
